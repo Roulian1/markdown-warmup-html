@@ -4,7 +4,7 @@
 
 > *One for all and all for one !*
 
-![Paysage](C:\Users\Hp\Pictures\Saved Pictures\hill-6557956_1920.jpg){align=center}
+![Paysage](./pictures/hill-6557956_1920.png){align=center}
 
 ## I'm actually following a formation with BeCode.
 
