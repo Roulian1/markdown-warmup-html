@@ -8,11 +8,13 @@
 
 ## Je suis actuellement en formation chez BeCode.
 
-|Birthday|17/03/1986|
-|Gender|M|
-|Favorite color|Yellow|
-|Favorite food|Lasagna|
-|Pinneapple on pizza|Unacceptable!|
+|colonne 1          |colonne 2          |
+|-------------------|-------------------|
+|Birthday           |17/03/1986         |
+|Gender             |M                  |
+|Favorite color     |Yellow             |
+|Favorite food      |Lasagna            |
+|Pinneapple on pizza|Unacceptable!      |
 
 ## Hobbies :
 
