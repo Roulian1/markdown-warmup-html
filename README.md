@@ -6,7 +6,7 @@
 
 ![Paysage] (hill-6557956_1920.jpg)
 
-## Je suis actuellement en formation chez BeCode.
+## I'm actually following a formation with BeCode.
 
 |colonne 1          |colonne 2          |
 |-------------------|-------------------|
@@ -39,3 +39,4 @@ I don't have a funny story for the moment so I'll try to think of one before the
 I don't have one.
 
 
+[<<previous](https://github.com/VincentDevi/challenge-markdown/blob/main/README.md) || Julien Elinckx || [next>>] (https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md)
