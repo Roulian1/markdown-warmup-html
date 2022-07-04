@@ -4,7 +4,7 @@
 
 > *One for all and all for one !*
 
-![Paysage](./Images/hill-6557956_1920.png)
+![Paysage](hill-6557956_1920.png)
 
 ## I'm actually following a formation with BeCode.
 
