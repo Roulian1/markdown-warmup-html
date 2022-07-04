@@ -1,10 +1,10 @@
-# challenge-markdown
+# **Markdown**
 
 # Julien Elinckx
 
 > *One for all and all for one !*
 
-[Paysage](hill-6557956_1920.png)
+![Paysage](hill-6557956_1920.jpg)
 
 ## I'm actually following a formation with BeCode.
 
@@ -16,6 +16,8 @@
 |Favorite food      |Lasagna            |
 |Pinneapple on pizza|Unacceptable!      |
 
+----
+
 ## Hobbies :
 
 * Bicycle
@@ -26,9 +28,13 @@
     * George Martin
     * ...
 
+----
+
 ## You can always count on me when :
 
-There's something to translate from english (I'm feeling confident when I translate the sense but if there are some technical terms, I would probably have to search for the vocabulary)
+There's something to translate from english (I'm feeling confident when I translate the sense but if there are some technical terms, I would probably have to search for some vocabulary)
+
+----
 
 ## A funny story :
 
