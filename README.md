@@ -10,7 +10,7 @@
 
 |colonne 1          |colonne 2          |
 |-------------------|-------------------|
-|Birthday           |17/03/1986         |
+|Birthday           |17/03              |
 |Gender             |M                  |
 |Favorite color     |Yellow             |
 |Favorite food      |Lasagna            |
