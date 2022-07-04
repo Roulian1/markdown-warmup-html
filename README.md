@@ -4,7 +4,7 @@
 
 > *One for all and all for one !*
 
-![Paysage] (hill-6557956_1920.jpg)
+![Paysage] (root/BeCode/challenge-markdown/hill-6557956_1920.jpg)
 
 ## I'm actually following a formation with BeCode.
 
@@ -39,4 +39,4 @@ I don't have a funny story for the moment so I'll try to think of one before the
 I don't have one.
 
 
-[<<previous](https://github.com/VincentDevi/challenge-markdown/blob/main/README.md) || Julien Elinckx || [next>>] (https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md)
+[<<previous](https://github.com/VincentDevi/challenge-markdown/blob/main/README.md) || Julien Elinckx || [next>>](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md)
