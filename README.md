@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Markdom
 =======
 # **Markdown**
@@ -49,4 +48,3 @@ I don't have one.
 
 
 [<<previous](https://github.com/VincentDevi/challenge-markdown/blob/main/README.md) || Julien Elinckx || [next>>](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md)
->>>>>>> presentation
