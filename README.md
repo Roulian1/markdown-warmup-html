@@ -1,7 +1,5 @@
-# Markdom
+# Markdown
 =======
-# **Markdown**
-
 # Julien Elinckx
 
 > *One for all and all for one !*
