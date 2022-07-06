@@ -38,16 +38,16 @@
 
 <h2> Hobbies : </h2>
 <ul>
-* Bicycle
-* Movie & Series
-* Reading (favorites authors)
-</ul>
+<li>Bicycle</li>
+<li>Movie & Series</li>
+<li>Reading (favorites authors)
     <ul>
-    * Edgar Rice Burroughs
-    * Rotten Tomatoes 
-    * George Martin
-    * ...
-    </ul>
+    <li>Edgar Rice Burroughs</li>
+    <li>Rotten Tomatoes</li> 
+    <li>George Martin</li>
+    <li>...</li>
+    </ul></li>
+</ul>
 
 ----
 
