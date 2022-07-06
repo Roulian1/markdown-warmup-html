@@ -1,4 +1,10 @@
-<head><h1> Markdown </h1></head>
+<head>
+
+<h1> Markdown </h1>
+
+<link href="style.css" rel="stylesheet">
+
+</head>
 =======
 <h1> Julien Elinckx </h1>
 
