@@ -8,6 +8,7 @@
 
 <h2> I'm actually following a formation with BeCode. </h2>
 
+<table>
 <tr>
     <td>colonne 1</td>
     <td>colonne 2</td>
@@ -32,7 +33,7 @@
     <td>Pinneapple on pizza</td>
     <td>Unacceptable!</td>
 </tr>
-
+</table>
 ----
 
 <h2> Hobbies : </h2>
@@ -65,7 +66,7 @@ Et, bien sûr, ils avaient très peu étudié. L'un d'eux eut une idée pas bêt
 Il alla voir le professeur et lui expliqua qu'ils avaient été visiter une vieille tante à l'extérieur de la ville et avaient décidé de dormir là, ils se lèveraient tôt pour venir faire leur examen.
 Mais voilà, ils eurent une crevaison, d'où leur retard. Comme c'étaient de bons étudiants, le professeur leur dit qu'ils pourraient faire un examen demain matin.
 Le lendemain, le prof de physique fit asseoir les 2 étudiants dans deux salles différentes. L'examen ne comportait qu'une question de 100 points:
-*- Quelle roue ? </i></p></body>
+- Quelle roue ? </i></p></body>
 
 <h3> Abstract funny story : </h3>
 
